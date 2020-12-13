@@ -9,3 +9,7 @@
 <strong>Сравнение стратегий на доске 4x4</strong>
 <br>
 <IMG SRC="https://github.com/FedotovDN/made_tictactoe/blob/main/tictactoe_444.png">
+<br><br>
+<strong>Сравнение стратегий на доске 5x5</strong>
+<br>
+<IMG SRC="https://github.com/FedotovDN/made_tictactoe/blob/main/tictactoe_555.png">
